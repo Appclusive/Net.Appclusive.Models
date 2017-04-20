@@ -4,3 +4,5 @@
 [![Version](https://img.shields.io/nuget/v/Net.Appclusive.Models.svg)](https://www.nuget.org/packages/Net.Appclusive.Models/)
 
 Models for the Appclusive Blueprint Modelling and Automation Engine
+
+Models and Behaviours in this repository are pre-defined by Appclusive such as `OrganisationalUnit`, `Folder` etc.
