@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+#if DEBUG
+
 using System.Diagnostics.Contracts;
 
 namespace Net.Appclusive.Models.Test
@@ -29,3 +31,5 @@ namespace Net.Appclusive.Models.Test
         }
     }
 }
+
+#endif

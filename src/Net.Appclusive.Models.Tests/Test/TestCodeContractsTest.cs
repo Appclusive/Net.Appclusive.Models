@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+#if DEBUG
+
 using biz.dfch.CS.Testing.Attributes;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Net.Appclusive.Models.Test;
@@ -47,3 +49,5 @@ namespace Net.Appclusive.Models.Tests.Test
         }
     }
 }
+
+#endif
